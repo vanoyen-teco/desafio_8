@@ -3,3 +3,4 @@
 
 Desafío: MongoDb From Shell
 
+Comandos ejecutados en el desafío: https://github.com/vanoyen-teco/desafio_8/blob/main/comandos.md
